@@ -1,1 +1,1 @@
-# Todo-site
+A simple and intuitive Todo App built using Django. It allows users to manage their tasks efficiently by categorizing them into incomplete and completed tasks. The app provides functionality to add, update, mark as complete, and delete tasks.
